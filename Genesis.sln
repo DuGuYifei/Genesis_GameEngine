@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenesisEditor", "GenesisEditor\GenesisEditor.csproj", "{0644367A-3833-4E18-A168-1657445C0C0C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{7ED54159-498E-4142-A7DB-97B6CE1C7B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED54159-498E-4142-A7DB-97B6CE1C7B49}.Debug|x64.ActiveCfg = Debug|x64
+		{7ED54159-498E-4142-A7DB-97B6CE1C7B49}.Debug|x64.Build.0 = Debug|x64
+		{7ED54159-498E-4142-A7DB-97B6CE1C7B49}.Release|x64.ActiveCfg = Release|x64
+		{7ED54159-498E-4142-A7DB-97B6CE1C7B49}.Release|x64.Build.0 = Release|x64
+		{0644367A-3833-4E18-A168-1657445C0C0C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0644367A-3833-4E18-A168-1657445C0C0C}.Debug|x64.Build.0 = Debug|Any CPU
+		{0644367A-3833-4E18-A168-1657445C0C0C}.Release|x64.ActiveCfg = Release|Any CPU
+		{0644367A-3833-4E18-A168-1657445C0C0C}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B5C34B0-B536-40A9-AC8A-2FCB58315519}
+	EndGlobalSection
+EndGlobal
